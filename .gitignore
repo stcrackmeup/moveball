@@ -1,0 +1,14 @@
+/Library
+Library
+Temp
+/Temp
+*.suo
+*.sln
+*.sln.docstates
+*.csproj
+*.DS_Store
+Thumbs.db
+*.pidb
+*.unityproj
+*.userprefs
+
